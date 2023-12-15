@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**shin1mk/shin1mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello👋
+My name is Mikhail, and I'm a  iOS developer. Welcome to my GitHub repository.
 
-Here are some ideas to get you started:
+🛠️ Currently actively working on the development of my own projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My current focus is on learning SwiftUI and UIKit to enhance my skills in the iOS development world.
+
+🍻 Ready to collaborate with other talented developers. Let's create something amazing together!
+
+📱 Easily reach me via email at shin.m.dp.ua@gmail.com or on Telegram @shinmikhail 🛸
+
+😄 I live in Ukraine, in Dnipro. In my free time I enjoy playing 🎮 PlayStation, building with LEGO, and I have a drone pilot license 🛸.
+
+Thanks for visiting my profile! 😊🚀
