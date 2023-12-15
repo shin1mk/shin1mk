@@ -3,7 +3,7 @@ My name is Mikhail and I'm a  iOS developer.
 
 🛠️ Currently actively working on the development of my own projects.
 
-📱 Easily reach me via email at shin.m.dp.ua@gmail.com or on https://www.linkedin.com/in/shininswift 🛸
+📱 Easily reach me on https://www.linkedin.com/in/shininswift 🛸
 
 📍 I live in Ukraine, in Dnipro. 
 
